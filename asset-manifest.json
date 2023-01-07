@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arti-Khillare/teradexa-assign.git/static/css/main.0e866cbe.css",
+    "main.js": "/Arti-Khillare/teradexa-assign.git/static/js/main.b45d8d58.js",
+    "static/js/787.d3befce1.chunk.js": "/Arti-Khillare/teradexa-assign.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Arti-Khillare/teradexa-assign.git/index.html",
+    "main.0e866cbe.css.map": "/Arti-Khillare/teradexa-assign.git/static/css/main.0e866cbe.css.map",
+    "main.b45d8d58.js.map": "/Arti-Khillare/teradexa-assign.git/static/js/main.b45d8d58.js.map",
+    "787.d3befce1.chunk.js.map": "/Arti-Khillare/teradexa-assign.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e866cbe.css",
+    "static/js/main.b45d8d58.js"
+  ]
+}
